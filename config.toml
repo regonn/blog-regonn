@@ -1,0 +1,24 @@
+baseURL = "https://blog.regonn.tokyo/"
+languageCode = "ja-jp"
+title = "そこのけそこのけゆとりが通る"
+googleAnalytics = ""
+theme = "amp-start-blog"
+
+[permalinks]
+posts = "/:slug/:filename/"
+pages = "/:filename/"
+
+[params]
+author = "Regonn"
+logo = "/img/avatar.png"
+twitter = "regonn_haizine"
+github = "regonn"
+instagram = "regonn_haizin"
+youtube = "UCg6N2lmVe6GE3CvShuv6bTg"
+reddit = "regonn314"
+pinterest = "regonn"
+description = "データサイエンティストを目指してるフリーランスのWEBプログラマ"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
