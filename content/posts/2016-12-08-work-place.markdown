@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "家を仕事場にしてみよう！住み込み型ワークプレイス"
+title: "家を仕事場にしてみよう 住み込み型ワークプレイス"
 date: 2016-12-08 08:00:00
 categories: 'programmer'
 slug: 'programmer'
-desc: "彼氏・彼女がいないなら、家を住み込み型ワークプレイスにすると色々捗るという話"
-keywords: "リモートワーク, プログラマ, アドベントカレンダー"
+desc: "彼氏 彼女がいないなら、家を住み込み型ワークプレイスにすると色々捗るという話"
+keywords: "リモートワーク,プログラマ,アドベントカレンダー"
 eyecatch: "2016-12-08-work-place.png"
 aliases: "/programmer/2016/12/08/work-place.html"
 ---
-<amp-img src="/images/2016-12-08-work-place.svg" alt="部屋" width="670px" height="480px" layout="responsive" ></amp-img>
 
 たまたま知った [カレシ・カノジョできないエンジニア Advent Calendar 2016](http://qiita.com/advent-calendar/2016/give_me_kareshi)
 しかし、明日(12月8日)が埋まってない！

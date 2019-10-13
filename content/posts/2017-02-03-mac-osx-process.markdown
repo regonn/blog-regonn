@@ -1,12 +1,14 @@
 ---
 layout: post
-title: "MacOSX で 'fork: Resource temporarily unavailable' エラーになる場合の対処法"
+title: "MacOSX で fork: Resource temporarily unavailable エラーになる場合の対処法"
 date: 2017-02-03 9:41:28 +0900
 categories: programmer
 slug: programmer
 tags:
   - macos
-aliases: '/macos/2017/02/03/maxos.html'
+aliases:
+  - '/macos/2017/02/03/maxos.html'
+  - '/programmer/2017-02-03-maxos/'
 ---
 
 最近 Rails 開発で puma-dev とかを入れていると、fsevent_watch プロセスが量産されて、プロセス上限数に達し

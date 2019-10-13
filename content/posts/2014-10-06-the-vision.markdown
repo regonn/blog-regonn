@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  "ザ・ビジョン~進むべき道は見えているか~を読んで、心に残った3つの事"
-date:   2014-10-06 13:48:05
+title:  "ザ・ビジョン～進むべき道は見えているか～を読んで、心に残った3つの事"
+date: 2014-10-06 14:00:00 +0900
 categories: 'book'
 slug: 'book'
-desc: "書籍 ザ・ビジョン を読んで、心に残った3つの事について書いています。"
+desc: "書籍 ザ・ビジョン を読んで、心に残った3つの事について書いています"
 keywords: "本, 感想, ザ・ビジョン, ビジョン, 会社"
 eyecatch: "2014-10-06-the-vision.jpg"
 aliases: "/book/2014/10/06/the-vision.html"
 ---
-
-<amp-img src="https://blog.regonn.tokyo/images/2014-10-06-the-vision.jpg" alt="freeCodeCamp" width="670px" height="480px" layout="responsive" ></amp-img>
 
 [ザ・ビジョン 進むべき道は見えているか](http://amzn.to/2b9umKp) を読みました。この本は、経営や個人の目標を作る過程で大切な「ビジョン」について、
 物語を通して分かりやすく説明してくれます。本を読んでいて面白いなと思った所に、

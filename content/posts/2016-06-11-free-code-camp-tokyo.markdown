@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "freeCodeCamp の東京コミュニティを立ち上げて1年弱が経つので振り返り"
-date: "2016-06-11 19:21:13 +0900"
+title: "freeCodeCampの東京コミュニティを立ち上げて1年弱が経つので振り返り"
+date: 2016-06-11 19:21:13 +0900
 categories: 'programmer'
 slug: 'programmer'
 desc: "freeCodeCampの東京コミュニティを立ち上げて、勉強会などを開催して1年弱が経ち今後考えていること。"
@@ -9,7 +9,6 @@ keywords: "プログラミング,freeCodeCamp,勉強会運営"
 eyecatch: "2016-06-11-free-code-camp.jpg"
 aliases: "/programmer/2016/06/11/free-code-camp-tokyo.html"
 ---
-<amp-img src="https://blog.regonn.tokyo/images/2016-06-11-free-code-camp.jpg" alt="freeCodeCamp" width="670px" height="480px" layout="responsive" ></amp-img>
 
 最初に宣伝させてもらいますと、[freeCodeCamp](https://www.freecodecamp.com) というサービスを御存知ですか？
 
