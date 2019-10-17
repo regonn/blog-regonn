@@ -18,7 +18,9 @@ keywords: "GCP,データサイエンス"
 GPU が有効になった LightGBM を JupyterNotebook 上で動かせるようにする。
 Docker は利用しない。
 
-### メモリを最大限に使えるようにする ※機械学習専用設定向けなので、一般のサーバーでは非推奨
+### メモリを最大限に使えるようにする
+
+※機械学習等の大きめのメモリを確保したい時の設定なので、一般サーバーでは非推奨
 
 ```
 sudo sh -c "echo 'vm.overcommit_memory=1' >> /etc/sysctl.conf && sysctl -p"

@@ -22,3 +22,6 @@ description = "データサイエンティストを目指してるフリーラ�
 [taxonomies]
 tag = "tags"
 category = "categories"
+
+[blackfriday]
+hrefTargetBlank = true
